@@ -5,8 +5,11 @@ This is a basic twitch chat client made in NodeJS, under heavy development.
 #HOW TO INSTALL
 TwitchIRC requires a few NodeJS packages, as well as NodeJS itself. you can get NodeJS from https://nodejs.org/
 Then, install the following package names using Command Prompt, or whatever mac / linux uses:
+
 npm i tmi.js
+
 npm i prompt
+
 npm i strsplit
 
 
